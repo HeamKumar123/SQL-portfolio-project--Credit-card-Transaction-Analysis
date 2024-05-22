@@ -1,1 +1,1 @@
-# SQL-portfolio-project--Credit-card-Transaction-Analysis
+# SQL-portfolio-project--Credit-card-Transactions-Analysis
